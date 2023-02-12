@@ -1,1 +1,0 @@
-<h1>Weather Vue app</h1>>
